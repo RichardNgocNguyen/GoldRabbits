@@ -1,9 +1,7 @@
-Overloaded operators and implemented BigInt type that overcomes the range limitations of int type
-
 # GoldRabbits
 
 ## Description
-The assignment is to overload operators to for use in user-defined types. In this case, it is used for BigInt type where we store each digit of a number in reverse. The purpose of this assignment is to implement a user-defined type to overcome the range limitations of an int type in C++.
+The assignment involves overloading operators to use in user-defined types. In this scope, it is used on BigInt types which stores each digit of a number in reverse. The purpose of this assignment is to implement BigInt, a user-defined type, to overcome the range limitations of an int type in C++. By overloading operators for use in BigInt types, we can do arithmetic operations between two BigInt types and not worry about "integer overflow" errors.
 
 ## Getting Started
 To compile, type in the terminal: <br>
